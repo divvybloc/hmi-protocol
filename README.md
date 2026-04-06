@@ -1,6 +1,6 @@
 ## White Paper
 
-[View the HMI White Paper] (/whitepaper.pdf)
+[View the HMI White Paper](whitepaper.pdf)
 
 # hmi-protocol
 ### ❤️💚💙 A Unified Protocol for Physical, Mental, and Spiritual Wellbeing
